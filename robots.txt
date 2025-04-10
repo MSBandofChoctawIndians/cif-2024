@@ -4,4 +4,4 @@ Disallow: /forms/
 User-agent: AdsBot-Google
 Disallow: /forms/
 
-Sitemap: https://www.choctawindianfair.com/sitemap.xml
+Sitemap: https://msbandofchoctawindians.github.io/cif-2024/sitemap.xml

@@ -2,7 +2,7 @@
 
 An event website built with [Github Pages](https://pages.github.com) and [Bootstrap 5.1.3](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
 
-See it live in action at <https://www.choctawindianfair.com/>
+See it live in action at <https://msbandofchoctawindians.github.io/cif-2024/>
 
 ## Home Page
 
