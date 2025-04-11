@@ -4,34 +4,34 @@
   alert: Register by June 30, 2024
   firstLink: https://runsignup.com/Race/MS/Philadelphia/RezRun2014
   firstAction: Register Online
-  secondLink: ../cif-2024/assets/pdf/2024 Rez Run Registration.pdf
+  secondLink: /cif-2024/assets/pdf/2024 Rez Run Registration.pdf
   secondAction: Download Form
 
 - image: ironwarrior
   title: Iron Warrior
   desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the next IRON WARRIOR!
   alert: Pre-register by June 11, 2024
-  firstLink: ../cif-2024/assets/pdf/2024 Iron Warrior Flyer.pdf
+  firstLink: /cif-2024/assets/pdf/2024 Iron Warrior Flyer.pdf
   firstAction: Download Flyer
-  secondLink: ../cif-2024/assets/pdf/2024 Iron Warrior Registration.pdf
+  secondLink: /cif-2024/assets/pdf/2024 Iron Warrior Registration.pdf
   secondAction: Download Form
 
 - image: volleyball
   title: Volleyball Tournament
   desc: Join us for the Choctaw Indian Fair Volleyball Tournament at the Choctaw Central High School Gymnasium.
   alert: Pre-register by June 28, 2024
-  firstLink: ../cif-2024/assets/pdf/2024 Volleyball Flyer.pdf
+  firstLink: /cif-2024/assets/pdf/2024 Volleyball Flyer.pdf
   firstAction: Download Flyer
-  secondLink: ../cif-2024/assets/pdf/2024 Volleyball Registration.pdf
+  secondLink: /cif-2024/assets/pdf/2024 Volleyball Registration.pdf
   secondAction: Dowload Form
 
 - image: tribalCornhole
   title: Tribal Member Tournament
   desc: Open to Tribal Affiliates. This year's Tribal Member Tournament will have two divisions, Social Division and Competitive Division. Cash prizes for 1st, 2nd, and 3rd Place teams! Top 10 Teams in Competitive Division Advance for Free to Open Tourney!
   alert: Pre-register by July 5, 2024
-  firstLink: ../cif-2024/assets/pdf/2024 Cornhole Tournament Competitive Form.pdf
+  firstLink: /cif-2024/assets/pdf/2024 Cornhole Tournament Competitive Form.pdf
   firstAction: Competitive Form
-  secondLink: ../cif-2024/assets/pdf/2024 Cornhole Tournament Social Form.pdf
+  secondLink: /cif-2024/assets/pdf/2024 Cornhole Tournament Social Form.pdf
   secondAction: Social Form
 
 - image: openCornhole
@@ -45,9 +45,9 @@
   title: Gospel Night
   desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
   alert: Details coming soon!
-  firstLink: ../cif-2024/assets/pdf/2024 Gospel Night Flyer.pdf
+  firstLink: /cif-2024/assets/pdf/2024 Gospel Night Flyer.pdf
   firstAction: Download Flyer
-  secondLink: ../cif-2024/assets/pdf/2024 Gospel Night Entry Form.pdf
+  secondLink: /cif-2024/assets/pdf/2024 Gospel Night Entry Form.pdf
   secondAction: Download Form
 
 - image: bracketology
@@ -63,14 +63,14 @@
   title: Little Mr. & Miss. Choctaw Indian Fair Pageant
   desc: At the Little Mr. & Miss. Choctaw Indian Fair Pageant, participants will compete in their traditional attire. The age divisions are 0-23 mos, 2-4 yrs, and 5-8 yrs.
   alert: Register by July 2, 2024 @ 4:30 PM
-  firstLink: ../cif-2024/assets/pdf/2024 Little Mr & Miss CIF Pageant Flyer.pdf
+  firstLink: /cif-2024/assets/pdf/2024 Little Mr & Miss CIF Pageant Flyer.pdf
   firstAction: Download Flyer
-  secondLink: ../cif-2024/assets/pdf/2024 Little Mr & Miss Entry Form.pdf
+  secondLink: /cif-2024/assets/pdf/2024 Little Mr & Miss Entry Form.pdf
   secondAction: Download Form
 
 - image: watermelon
   title: Watermelon Eating Contest
   desc: Who can eat watermelon the fastest? One entry per participant, 10 participants per competition. Contest is open to the public.
   alert: Registration will be on-site during the fair.
-  firstLink: ../cif-2024/assets/pdf/2024 Watermelon & Fry Bread Flyer.pdf
+  firstLink: /cif-2024/assets/pdf/2024 Watermelon & Fry Bread Flyer.pdf
   firstAction: Download Flyer

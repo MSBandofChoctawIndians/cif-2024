@@ -6,8 +6,8 @@ meta: home
 
 <section class="diamond-bg">
   <div class="container">
-    <img src="../cif-2024/assets/img/event-banner-01.webp" class="img-fluid d-none d-md-block img-shadow">
-    <img src="../cif-2024/assets/img/event-banner-02.webp" class="img-fluid d-block d-md-none img-shadow">
+    <img src="/cif-2024/assets/img/event-banner-01.webp" class="img-fluid d-none d-md-block img-shadow">
+    <img src="/cif-2024/assets/img/event-banner-02.webp" class="img-fluid d-block d-md-none img-shadow">
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
@@ -52,7 +52,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -80,7 +80,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -108,7 +108,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -136,7 +136,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -164,7 +164,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -192,7 +192,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -220,7 +220,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -248,7 +248,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -276,7 +276,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -304,7 +304,7 @@ meta: home
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../map/" class="text-white" style="text-decoration: none;">
+              <a href="/cif-2024/map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -329,4 +329,4 @@ meta: home
     })
   })
 </script>
-<script src="/cif-2024/cif-2024/assets/js/filterDivs.js"></script>
+<script src="/cif-2024/assets/js/filterDivs.js"></script>
