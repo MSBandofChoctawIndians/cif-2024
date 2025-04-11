@@ -329,4 +329,4 @@ meta: home
     })
   })
 </script>
-<script src="/assets/js/filterDivs.js"></script>
+<script src="/cif-2024/assets/js/filterDivs.js"></script>

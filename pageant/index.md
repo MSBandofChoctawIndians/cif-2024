@@ -15,7 +15,7 @@ meta: home
         <div class="card mb-3 card-rose-border mx-auto" style="max-width: 540px;">
           <div class="row g-0" style="background: linear-gradient(#969,#ffd,#fcc);">
             <div class="col-5" style="background: transparent;">
-              <img src="/assets/img/contestants/{{ card.img }}.webp" class="img-fluid" alt="{{ card.name }}">
+              <img src="/cif-2024/assets/img/contestants/{{ card.img }}.webp" class="img-fluid" alt="{{ card.name }}">
             </div>
             <div class="col-7 d-flex align-items-center">
               <div class="card-body">

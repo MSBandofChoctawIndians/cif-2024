@@ -13,13 +13,13 @@ meta: meta
   </video>
 
   <!-- <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-    <source src="/assets/img/CIFVideoWeb_1.mp4" type="video/mp4">
+    <source src="/cif-2024/assets/img/CIFVideoWeb_1.mp4" type="video/mp4">
   </video> -->
   <!-- The header content -->
   <!-- <div class="container h-100 d-block d-sm-none">
     <div class="d-flex h-100 text-center align-items-center">
       <div class="w-100 text-white">
-        <img src="/assets/img/logos/fairlogo.webp" alt="Choctaw Indian Fair Logo" class="img-fluid">
+        <img src="/cif-2024/assets/img/logos/fairlogo.webp" alt="Choctaw Indian Fair Logo" class="img-fluid">
       </div>
     </div>
   </div> -->
@@ -29,7 +29,7 @@ meta: meta
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xl">
-        <img class="card-gold-border img-fluid" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2022"/>
+        <img class="card-gold-border img-fluid" src="/cif-2024/assets/img/chiefprincess.webp" alt="Chief & Princess 2022"/>
       </div>
       <div class="col-xl">
         <br class="d-xl-none"/>
