@@ -7,4 +7,4 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-baseurl: "/cif-2024"
+baseurl: https://msbandofchoctawindians.github.io/cif-2024
