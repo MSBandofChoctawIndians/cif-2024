@@ -5,13 +5,13 @@ meta: home
 ---
 <section class="diamond-bg6">
   <div class="container">
-    <img src="../assets/img/competition-banner.webp" class="img-fluid d-none d-md-block img-shadow">
-    <img src="../assets/img/competition-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
+    <img src="../cif-2024/assets/img/competition-banner.webp" class="img-fluid d-none d-md-block img-shadow">
+    <img src="../cif-2024/assets/img/competition-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
     <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4 pt-5">
       {% for card in site.data.competitions.cards %}
         <div class="col">
           <div class="card card-red-border card-platinum text-dark h-100">
-            <img src="../assets/img/logos/{{ card.image }}.webp" class="card-img-top" alt="{{ card.title }}">
+            <img src="../cif-2024/assets/img/logos/{{ card.image }}.webp" class="card-img-top" alt="{{ card.title }}">
             <div class="card-body">
               <p class="card-title">{{ card.title }}</p>
               <p class="card-text">{{ card.desc }}</p>

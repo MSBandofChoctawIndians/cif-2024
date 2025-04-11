@@ -6,8 +6,8 @@ meta: home
 
 <section class="diamond-bg">
   <div class="container">
-    <img src="../assets/img/event-banner-01.webp" class="img-fluid d-none d-md-block img-shadow">
-    <img src="../assets/img/event-banner-02.webp" class="img-fluid d-block d-md-none img-shadow">
+    <img src="../cif-2024/assets/img/event-banner-01.webp" class="img-fluid d-none d-md-block img-shadow">
+    <img src="../cif-2024/assets/img/event-banner-02.webp" class="img-fluid d-block d-md-none img-shadow">
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
@@ -329,4 +329,4 @@ meta: home
     })
   })
 </script>
-<script src="/cif-2024/assets/js/filterDivs.js"></script>
+<script src="/cif-2024/cif-2024/assets/js/filterDivs.js"></script>

@@ -9,7 +9,7 @@ title: Forms
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 pb-5">
         {% for card in site.data.forms.cards %}
             <div class="col">
-                <a href="../assets/pdf/{{ card.file }}.pdf" target="_blank" class="text-decoration-none">
+                <a href="../cif-2024/assets/pdf/{{ card.file }}.pdf" target="_blank" class="text-decoration-none">
                     <div class="card text-dark text-center bg-warning mb-3 h-100">
                         <div class="card-header text-center display-1"><i class="bi bi-file-earmark-pdf"></i></div>
                         <div class="card-body">

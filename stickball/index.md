@@ -4,11 +4,11 @@ title: Stickball
 meta: home
 ---
 
-<script src="../assets/js/stickballCharts.js"></script>
+<script src="../cif-2024/assets/js/stickballCharts.js"></script>
 <section class="diamond-bg2 bebas">
   <div class="container">
-    <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block img-shadow">
-    <img src="../assets/img/stickball-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
+    <img src="../cif-2024/assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block img-shadow">
+    <img src="../cif-2024/assets/img/stickball-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
     {% assign cachedNow = 'now' | date: '%F %T' %}
     {% if cachedNow < '2022-06-06 18:00:00' %} 
       {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}
@@ -30,7 +30,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
-              <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
+              <img class="img-fluid my-2 lighten" src="../cif-2024/assets/img/logos/wss.webp">
               <div style="background: white; color: #555;">
                 <p class="h4 mb-0 pt-1">GAME {{ card.game }}</p>
               </div>
@@ -75,7 +75,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
-              <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
+              <img class="img-fluid my-2 lighten" src="../cif-2024/assets/img/logos/wss.webp">
               <div style="background: white; color: #555;">
                 <p class="h4 mb-0 pt-1">GAME {{ card.game }}</p>
               </div>
@@ -119,7 +119,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
-              <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
+              <img class="img-fluid my-2 lighten" src="../cif-2024/assets/img/logos/wss.webp">
               <div style="background: white; color: #555;">
                 <p class="h4 mb-0 pt-1">GAME {{ card.game }}</p>
               </div>
@@ -158,7 +158,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
-              <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
+              <img class="img-fluid my-2 lighten" src="../cif-2024/assets/img/logos/wss.webp">
               <div style="background: white; color: #555;">
                 <p class="h4 mb-0 pt-1">GAME {{ card.game }}</p>
               </div>
@@ -198,7 +198,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
-              <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
+              <img class="img-fluid my-2 lighten" src="../cif-2024/assets/img/logos/wss.webp">
               <div style="background: white; color: #555;">
                 <p class="h4 mb-0 pt-1">GAME {{ card.game }}</p>
               </div>
